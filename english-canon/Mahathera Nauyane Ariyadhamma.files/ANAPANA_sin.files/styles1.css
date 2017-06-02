@@ -1,0 +1,75 @@
+BODY {
+	FONT-SIZE: 12pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-SIZE: 24px; LINE-HEIGHT: 26px
+}
+.book-container {
+	max-width: 45em
+}
+.revista-container {
+	BORDER-RIGHT: #cecfff 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cecfff 0px solid; PADDING-LEFT: 25px; MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 15px; OVERFLOW: visible; BORDER-LEFT: #2165ff 8px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #cecfff 6px solid; HEIGHT: auto
+}
+.revista-image {
+	CLEAR: both; MARGIN-BOTTOM: 10px
+}
+.iframe H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 14pt
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; LINE-HEIGHT: normal
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: medium
+}
+TD {
+	FONT-SIZE: 12pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.buttons {
+	FONT-SIZE: 12pt; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; LIST-STYLE-TYPE: circle; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cc3300
+}
+.tiny {
+	BACKGROUND-POSITION: right 50%; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.temas {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; TEXT-DECORATION: none
+}
+.rightext {
+	RIGHT: auto; FLOAT: right
+}
+.fixmenu {
+	POSITION: static
+}
+.closeLayerbox {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; RIGHT: 100%; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.layerboxBar {
+	FONT-SIZE: 9pt; COLOR: #ffffff; BACKGROUND-COLOR: #2165ff
+}
+.box {
+	BORDER-RIGHT: #0000ff 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #0000ff 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #0000ff 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #0000ff 1px solid; BACKGROUND-COLOR: #ccccff
+}
+.pale-colour {
+	BACKGROUND-COLOR: #ccccff
+}
+.whitebkg {
+	BACKGROUND-COLOR: #ffffff
+}
+.box2 {
+	BORDER-RIGHT: #0033ff 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #0033ff 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; MARGIN: 2px; BORDER-LEFT: #0033ff 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #0033ff 1px solid; BACKGROUND-COLOR: #a9bac5; TEXT-DECORATION: none
+}
+.timesPali {
+	FONT-SIZE: 18px; FONT-FAMILY: "Times Pali"
+}
+.box-border {
+	BORDER-RIGHT: #0065ce 1px solid; BORDER-TOP: #0065ce 1px solid; BORDER-LEFT: #0065ce 1px solid; BORDER-BOTTOM: #0065ce 1px solid
+}
+.fake-link {
+	CURSOR: pointer; TEXT-DECORATION: underline
+}
+.highlight {
+	FONT-WEIGHT: bold; COLOR: #ff0000
+}

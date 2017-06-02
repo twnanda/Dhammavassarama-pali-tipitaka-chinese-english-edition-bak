@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0024)http://117.org.cn/clock/ -->
+<HTML><HEAD><TITLE>现在标准北京时间</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<SCRIPT language=javascript>
+t0=new Date().getTime();
+nyear=2008;
+nmonth=3;
+nday=14;
+nwday=6-1;
+nhrs=18;
+nmin=55;
+nsec=9;
+s=document.URL;pos=s.indexOf("#");
+fstyle=decodeURI(s.substring(pos+1,s.length));
+</SCRIPT>
+
+<SCRIPT language=javascript src="clock.files/tfunc5.js"></SCRIPT>
+
+<STYLE>A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2800.1106" name=GENERATOR></HEAD>
+<BODY style="BACKGROUND-COLOR: transparent" leftMargin=0 topMargin=0>
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%">
+  <TBODY>
+  <TR>
+    <TD vAlign=center align=middle>
+      <SCRIPT language=javascript>
+document.write('<a title="点击查看农历" href="http://bjtime.cn/" target=_blank style="'+fstyle+'">');
+</SCRIPT>
+      <SPAN id=clock></SPAN></A></TD></TR></TBODY></TABLE>
+<SCRIPT language=Javascript>
+function Draw(){
+NewTick();
+//if(nmin==59&&nsec>40&&nsec<50)
+//s="&nbsp;&nbsp;&nbsp;标准北京时间&nbsp;&nbsp;&nbsp;";
+//else
+s=nyear+'年'+nmonth+'月'+nday+'日 '+'星期'+cweekday(nwday)+' ';
+document.getElementById("clock").innerHTML=s+shapetime(nhrs,nmin,nsec);
+setTimeout("Draw()",500);
+}
+Draw();
+</SCRIPT>
+</BODY></HTML>

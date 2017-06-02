@@ -1,0 +1,35 @@
+<html>
+<head><title>The Path of Purification¡ÐVisuddhimagga </title></head>
+<body background="sumtextb.jpg">
+
+<div align="center" style="font-size:20pt">Online Buddhist Studio</div>
+<div align="center" style="font-size:16pt">Theravada Buddhist Studies</div>
+<BR>
+
+<table align="center" style="font-size:14pt">
+<tr><td><li><a href="../index.htm">Back to Root Page</a>
+<tr><td><li><a href="ThemesofTalks.htm">Themes of Talks from Visuddhi Magga</a>
+<tr><td><li><a href="chapter1.htm">Chapter 1</a>
+<tr><td><li><a href="Chapter2.htm">Chapter 2</a>
+<tr><td><li><a href="Chapter3.htm">Chapter 3</a>
+<tr><td><li><a href="Chapter4.htm">Chapter 4</a>
+<tr><td><li><a href="Chapter5.htm">Chapter 5</a>
+<tr><td><li><a href="Chapter6.htm">Chapter 6</a>
+<tr><td><li><a href="Chapter7.htm">Chapter 7</a>
+<tr><td><li><a href="Chapter8.htm">Chapter 8</a>
+<tr><td><li><a href="Chapter9.htm">Chapter 9</a>
+<tr><td><li><a href="Chapter10.htm">Chapter 10</a>
+<tr><td><li><a href="Chapter11.htm">Chapter 11</a>
+<tr><td><li><a href="Chapter12.htm">Chapter 12</a>
+<tr><td><li><a href="Chapter13.htm">Chapter 13</a>
+<tr><td><li><a href="Chapter14.htm">Chapter 14</a>
+<tr><td><li><a href="Chapter15.htm">Chapter 15</a>
+<tr><td><li><a href="Chapter16.htm">Chapter 16</a>
+<tr><td><li><a href="Chapter17.htm">Chapter 17</a>
+<tr><td><li><a href="Chapter18.htm">Chapter 18</a>
+<tr><td><li><a href="Chapter19.htm">Chapter 19</a>
+<tr><td><li><a href="Chapter20.htm">Chapter 20</a>
+<tr><td><li><a href="Chapter21.htm">Chapter 21</a>
+<tr><td><li><a href="Chapter22.htm">Chapter 22</a>
+<tr><td><li><a href="Chapter23.htm">Chapter 23</a>
+</table>

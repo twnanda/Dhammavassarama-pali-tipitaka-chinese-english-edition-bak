@@ -1,0 +1,237 @@
+BODY {
+	BACKGROUND: white; COLOR: black; FONT-FAMILY: Optima, Arial, Helvetica, sans-serif
+}
+.navbar {
+	FONT-SIZE: 70%; TEXT-ALIGN: left
+}
+.footer {
+	FONT-SIZE: 70%; TEXT-ALIGN: left
+}
+UNKNOWN {
+	MARGIN-TOP: 0.5em
+}
+UNKNOWN {
+	MARGIN-TOP: 0.5em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UL.nobull {
+	LIST-STYLE-TYPE: none
+}
+OL.nobull {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	MARGIN-BOTTOM: 1em
+}
+OL {
+	MARGIN-BOTTOM: 1em
+}
+DL {
+	MARGIN-BOTTOM: 1em
+}
+DT {
+	MARGIN-TOP: 1em
+}
+H1 {
+	FONT-SIZE: 180%; TEXT-ALIGN: center
+}
+H2 {
+	FONT-SIZE: 160%; TEXT-ALIGN: center
+}
+H3 {
+	MARGIN-TOP: 2em; FONT-SIZE: 140%; MARGIN-BOTTOM: 0em
+}
+H4 {
+	MARGIN-TOP: 2em; FONT-SIZE: 120%; MARGIN-BOTTOM: 0em
+}
+H5 {
+	FONT-SIZE: 110%; MARGIN-BOTTOM: 0em
+}
+H6 {
+	FONT-SIZE: 110%; MARGIN-BOTTOM: 0em
+}
+.in1 {
+	MARGIN-LEFT: 5%
+}
+.in2 {
+	MARGIN-LEFT: 10%
+}
+H1.home {
+	MARGIN-TOP: 0px; FONT-SIZE: 200%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left
+}
+H2.home {
+	MARGIN-TOP: 0px; FONT-SIZE: 150%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left
+}
+TD.home1 {
+	VERTICAL-ALIGN: top; COLOR: black; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: right
+}
+TD.home2 {
+	FONT-SIZE: small; VERTICAL-ALIGN: bottom; COLOR: black; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+.title {
+	TEXT-ALIGN: center
+}
+.subtitle {
+	TEXT-ALIGN: center
+}
+.author {
+	TEXT-ALIGN: center
+}
+.trans {
+	TEXT-ALIGN: center
+}
+.rights {
+	FONT-SIZE: small; TEXT-ALIGN: center
+}
+.by {
+	FONT-SIZE: small; TEXT-ALIGN: center
+}
+DIV.epi {
+	TEXT-ALIGN: center
+}
+TABLE.prev-next {
+	FONT-WEIGHT: bold; FONT-SIZE: small; TEXT-ALIGN: center
+}
+.pubinfo {
+	MARGIN-TOP: 1em; FONT-SIZE: small; MARGIN-BOTTOM: 1em; TEXT-ALIGN: center
+}
+.from {
+	MARGIN-TOP: 1em; FONT-SIZE: small; MARGIN-BOTTOM: 1em; TEXT-ALIGN: left
+}
+.tagline {
+	FONT-SIZE: small; MARGIN-LEFT: 50%; TEXT-ALIGN: left
+}
+H1.tiny {
+	FONT-SIZE: 100%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: center
+}
+H2.tiny {
+	MARGIN-TOP: 0px; FONT-SIZE: 90%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: center
+}
+TABLE.abbrev {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 5%
+}
+H1.pali-id {
+	FONT-SIZE: small
+}
+H1.pali-title {
+	
+}
+H2.e-title {
+	
+}
+TABLE.alt-trans {
+	FONT-WEIGHT: normal; FONT-SIZE: small; TEXT-ALIGN: center
+}
+DIV.intro {
+	FONT-SIZE: small
+}
+DIV.intro H1 {
+	MARGIN-TOP: 0em
+}
+H2 {
+	MARGIN-TOP: 0em
+}
+H3 {
+	MARGIN-TOP: 0em
+}
+H4 {
+	MARGIN-TOP: 0em
+}
+H5 {
+	MARGIN-TOP: 0em
+}
+DIV.tnote {
+	FONT-SIZE: small
+}
+DIV.sutta {
+	FONT-FAMILY: "Times New Roman", serif
+}
+.sutta DIV.verse {
+	MARGIN-BOTTOM: 0em; MARGIN-LEFT: 5%
+}
+.verse SPAN.spkr {
+	MARGIN-LEFT: -3%; FONT-STYLE: italic
+}
+.verse .cite {
+	MARGIN-TOP: -1em; FONT-SIZE: small; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 25%; TEXT-ALIGN: left
+}
+.verse P {
+	MARGIN-BOTTOM: 0px
+}
+.verse PRE {
+	MARGIN-TOP: 0px; FONT-FAMILY: "Times New Roman", serif
+}
+.sutta DIV.prose {
+	
+}
+.prose .cite {
+	MARGIN-TOP: -1em; FONT-SIZE: small; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 75%; TEXT-ALIGN: left
+}
+SPAN.cite-inline {
+	FONT-SIZE: small
+}
+DIV.excerpt {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+.sutta H4 {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: -0.5em
+}
+.sutta H5 {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: -0.5em
+}
+DIV.notes {
+	FONT-SIZE: 90%; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 2%; MARGIN-RIGHT: 2%
+}
+.notes DIV.note {
+	MARGIN-TOP: 1.5em; MARGIN-LEFT: 1em
+}
+SPAN.note-tag {
+	FONT-SIZE: small; VERTICAL-ALIGN: super
+}
+DIV.discuss {
+	MARGIN-BOTTOM: 2em; FONT-FAMILY: "Optima", sans-serif
+}
+DIV.comment {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; BACKGROUND: #eeeeee; PADDING-BOTTOM: 0.5em; MARGIN: 2em 5%; PADDING-TOP: 0.5em; FONT-FAMILY: "Optima", sans-serif
+}
+HR.minibar {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: 2em; WIDTH: 33%
+}
+HR.minibar2 {
+	MARGIN: 2em 50% 2em 25%
+}
+HR.microbar {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: 2em; WIDTH: 10%
+}
+P.hang {
+	MARGIN-LEFT: 2em; TEXT-INDENT: -2em
+}
+P.postal-address {
+	FONT-SIZE: small; MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+DIV.disclaimer {
+	FONT-SIZE: small; MARGIN: 1em 25%; BACKGROUND-COLOR: #dddddd; TEXT-ALIGN: left
+}
+.shaded {
+	BACKGROUND-COLOR: #dddddd
+}
+.outline {
+	BORDER-RIGHT: thin solid; BORDER-TOP: thin solid; BORDER-LEFT: thin solid; BORDER-BOTTOM: thin solid
+}
+EM.chimp-attract {
+	FONT-STYLE: normal; TEXT-DECORATION: blink
+}
+.example {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%; BACKGROUND-COLOR: #dddddd
+}
+.fixme {
+	FONT-SIZE: small; COLOR: red
+}
+.wrong {
+	COLOR: red
+}
+.right {
+	COLOR: green
+}

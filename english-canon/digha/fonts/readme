@@ -1,0 +1,34 @@
+The fonts in this archive implement the CSX+ character set designed
+for use in printing Indian language material in Roman script. They
+are based on fonts designed by
+
+  URW++ Design and Development Incorporated
+  Poppenbuetteler Bogen 29A
+  D-22399 Hamburg
+  Germany
+
+and made available under the terms of the GNU General Public License,
+a copy of which is included in this archive in the file COPYING. The
+chief provision of the GPL is that software licensed under it may be
+freely redistributed provided the author's copyright is properly
+acknowledged. As permitted under Section 2 of the GPL, I have modified
+the fonts to implement the CSX+ encoding, using a program I have
+written to create arbitrarily accented Type 1 PostScript fonts.
+Creation of .PFM files and conversion from PostScript to TrueType was
+with the program TypeTool. The modified fonts, like the originals, are
+distributed under the GPL. However, the copyright remains with URW++
+Design and Development Incorporated. The modified fonts were first
+created on July 28-9, 1998.
+
+The TrueType fonts are held in the files with a .TTF extension; .PFB,
+.AFM and .PFM files contain the original Type 1 PostScript versions.
+
+The particular fonts used in this archive are based on the typeface
+NimbusRomNo9L, which is URW++'s name for their Times-lookalike.
+
+The definition file used to create the modified font contains a
+complete character-by-character listing: it is included in this
+archive in the file CSX-PLUS.DEF.
+
+John D. Smith
+University of Cambridge

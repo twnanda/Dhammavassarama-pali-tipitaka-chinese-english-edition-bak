@@ -1,0 +1,4 @@
+var hzWeek= new Array("日","一","二","三","四","五","六","日");nextday=false;function cweekday(wday){return hzWeek[wday];}function shapetime(vhrs,vmin,vsec){if(vsec<=9) vsec="0"+vsec;if(vmin<=9) vmin="0"+vmin;if(vhrs<=9) vhrs="0"+vhrs;return vhrs+":"+vmin+":"+vsec}
+last0=t0;function NewTick(){noww=new Date();t1=noww.getTime();if(t1<last0||((t1-last0)>300000&&last0!=t0)){t1=last0+500;}last0=t1;noww.setTime(t1+dectime);if(noww.getDate()!=nday){nyear=noww.getFullYear();nmonth=noww.getMonth()+1;nwday=noww.getDay();nday=noww.getDate();nextday=true;}nhrs=noww.getHours();nmin=noww.getMinutes();nsec=noww.getSeconds();
+}function gettimestr(){return nyear+'年'+nmonth+'月'+nday+'日'+'星期'+cweekday(nwday)+shapetime(nhrs,nmin,nsec);}dectime=new Date(nyear,nmonth-1,nday,nhrs,nmin,nsec).getTime()-t0;
+function getshortstr(){return shapetime(nhrs,nmin,nsec);}

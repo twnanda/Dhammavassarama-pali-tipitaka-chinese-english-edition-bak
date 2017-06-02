@@ -1,0 +1,375 @@
+/* http://www.buddhadust.org/styles/common.css */
+/* example: http://www.buddhadust.org/administration_notes/test_and_experimental/newpage.htm */
+/*Contact: MikeOlds@buddhadust.org */
+/*Page Last Updated */
+/*Monday, May 27, 2002 7:05 PM */
+
+body {
+   background: none, repeat;
+   text: #000000;
+}
+a:link {
+   color: #000000;
+}
+a:visited {
+   color: #cc6600;
+}
+a:hover {
+   color: #cc6600;
+   }
+a img {
+   border: none;
+   }
+
+p {
+   font: "Times New Roman", "Times Roman", serif;
+   margin-top: 0;
+   margin-bottom: 6px;
+   }
+p.center {
+   text-align: center;
+   margin-top: 0;
+   margin-bottom: 6px;
+   }
+p.fine {
+   font: 10pt/12pt "Times New Roman", "Times Roman", serif;
+   margin-top: 0;
+   margin-bottom: 4px;
+   }
+p.lgqt {
+   margin-left: +36px;
+   margin-top: 0;
+   margin-bottom: 6px;
+   margin-right: +36px;
+   font: "Times New Roman", "Times Roman", serif;
+   }
+p.lgqtpali {
+   margin-left: +36px;
+   margin-top: 0;
+   margin-bottom: 6px;
+   margin-right: +36px;
+   font-family: "MozPali" "Times Roman", serif;
+   }
+p.line {
+   font: 14pt/18pt "Times New Roman", "Times Roman", serif;
+   margin-top: 0;
+   margin-bottom: 8px;
+   }
+p.lineqt {
+   margin-left: +36px;
+   margin-top: 0;
+   margin-bottom: 6px;
+   margin-right: +36px;
+   font: "Times New Roman", "Times Roman", serif;
+   }
+p.lineqtpali {
+   margin-left: +36px;
+   margin-top: 0;
+   margin-bottom: 6px;
+   margin-right: +36px;
+   font-family: "MozPali", "Times Roman", serif;
+   }
+p.pali {
+   margin-top: 0;
+   margin-bottom: 6px;
+   font-family: "MozPali", "Times Roman", serif;
+   }
+h1 {
+   text-align: center;
+   font: bold 24pt/32pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h2 {
+   text-align: center;
+   font: bold 24pt/32pt "Times New Roman", "Times Roman", serif;
+   background: none repeat;
+   }
+h3 {
+   font: bold 18pt/24pt "Times New Roman", "Times Roman", serif;
+   background: none repeat;
+   }
+h3.c {
+   font: bold 18pt/24pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h3.cs {
+   text-align: center;
+   font: bold 18pt/24pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h4 {
+   font: bold 14pt/16pt "Times New Roman", "Times Roman", serif;
+   background: none repeat;
+   }
+h4.c {
+   font: bold 14pt/16pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h4.cs {
+   text-align: center;
+   font: bold 14pt/16pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h5 {
+   font: bold "Times New Roman", "Times Roman", serif;
+   background: none repeat;
+   }
+h5.c {
+   font: bold "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   }
+h6 {
+   font: bold italic "Times New Roman", "Times Roman", serif;
+   background: none repeat;
+   }
+h3.pali {
+   font: 18pt/24pt "MozPali", "Times Roman", serif;
+   font-weight: bold;
+   background: none repeat;
+   }
+h4.pali {
+   font: bold 14pt/16pt "MozPali", "Times Roman", serif;
+   background: none repeat;
+   }
+.mozp {
+   font-family:"MozPali", "Times Roman", serif;
+   }
+.apct {
+   font-family:"AmericanPictogram Bold", "Times Roman", serif;
+   }
+.c {
+   color: #cc6600;
+   }
+.g {
+   color: green;
+   }
+.r {
+   color: red;
+   }
+.bc {
+   color: #f7e6ce;
+   }
+.fine {
+   font: 10pt/12pt "Times New Roman", "Times Roman", serif;
+   margin-top: 0;
+   margin-bottom: 4px;
+   }
+.ctr {
+   text-align: center;
+   }
+.rt {
+   text-align: right;
+}
+.left {
+   text-align: left;
+}
+.in1 {
+   margin-left: 24px;
+   }
+.in2 {
+   margin-left: 48px;
+   }
+.in3 {
+   margin-left: 72px;
+   }
+.in4 {
+   margin-left: 96px;
+   }
+.in5 {
+   margin-left: 120px;
+   }
+.in6 {
+   margin-left: 144px;
+   }
+.pg {
+   font-family: "Porson Greek OUP one", "Times Roman", serif;
+}
+.f {
+   font-family: "Times New Roman", "Times Roman", serif;
+}
+.f1 {
+   font: 8pt/10pt "Times New Roman", "Times Roman", serif;
+}
+.f2 {
+   font: 10pt/12pt "Times New Roman", "Times Roman", serif;
+}
+.f3 {
+   font: 12pt/14pt "Times New Roman", "Times Roman", serif;
+}
+.f4 {
+   font: 14pt/16pt "Times New Roman", "Times Roman", serif;
+}
+.f5 {
+   font: 18pt/24pt "Times New Roman", "Times Roman", serif;
+}
+.f6 {
+   font: 24pt/32pt "Times New Roman", "Times Roman", serif;
+}
+.f7 {
+   font: 36pt/48pt "Times New Roman", "Times Roman", serif;
+}
+.f8 {
+   font: 72pt/80pt "Times New Roman", "Times Roman", serif;
+}
+.fp1 {
+   font: 8pt/10pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp2 {
+   font: 10pt/12pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp3 {
+   font: 12pt/14pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp4 {
+   font: 14pt/16pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp5 {
+   font: 18pt/24pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp6 {
+   font: 24pt/32pt "MozPali", "Times New Roman", "Times Roman", serif;
+}
+.fp7 {
+   font: 36pt/48pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fp8 {
+   font: 72pt/80pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss1 {
+   font: 8pt/10pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss2 {
+   font: 10pt/12pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss3 {
+   font: 12pt/14pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss4 {
+   font: 14pt/16pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss5 {
+   font: 18pt/24pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss6 {
+   font: 24pt/32pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss7 {
+   font: 36pt/48pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+.fpss8 {
+   font: 72pt/80pt "Arial", "Helvetica", "Avant Guard", sans-serif;
+}
+
+
+hr {
+   text-align: center;
+   width: 100%;
+   height: 1px;
+   color: #cc6600;
+   background: none repeat;
+   }
+hr.demi {
+   text-align: left;
+   width: 25%;
+   height: 1px;
+   color: #cc6600;
+   background: none repeat;
+}
+hr.ctr {
+   text-align: center;
+   width: 25%;
+   height: 1px;
+   color: #cc6600;
+   background: none repeat;
+}
+
+.valt {
+   vertical-align: top;
+}
+.valm {
+   vertical-align: middle;
+}
+.valb {
+   vertical-align: bottom;
+}
+
+table.dbdr {
+   border:#cc6600 solid 1px;
+}
+th.dbdr {
+   background: none repeat;
+   border: #cc6600 solid 1px;
+}
+
+td.dbdr {
+   background: none repeat;
+   border: #cc6600 solid 1px;
+}
+
+table.ltb {
+   border:#cc6600 solid 1px;
+}
+th.ltb {
+   background: #f7e6ce;
+   border: #cc6600 solid 1px;
+}
+td.ltb {
+   background: #f7e6ce;
+   border: #cc6600 solid 1px;
+}
+
+table.ltbdr {
+   border:#f7e6ce solid 1px;
+}
+th.ltbdr {
+   background: none repeat;
+   border: #f7e6ce solid 1px;
+}
+
+td.ltbdr {
+   background: none repeat;
+   border: #f7e6ce solid 1px;
+}
+
+td.nbdltbg {
+   background: #f7e6ce;
+}
+
+table.cvp {
+   border-collapse: collapse;
+   border: 1px solid #cc6600;
+   background: #f7e6ce;
+   empty-cells: show;
+   }
+table.cvp caption {
+   text-align: left;
+   font: bold 14pt/18pt "Times New Roman", "Times Roman", serif;
+   color: #cc6600;
+   background: none repeat;
+   caption-side: top;
+   }
+table.cvp th, table.cvp td {
+   padding: 4px;
+   border: 1px solid #cc6600;
+   }
+table.cvp th {
+   text-align: center;
+   font-weight: bold;
+   color: #cc6600;
+   background: #f7e6ce;
+   vertical-align: middle;
+   }
+table.cvp td {
+   text-align: left;
+   vertical-align: middle;
+   }
+
+
+
+
